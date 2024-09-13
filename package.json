@@ -12,5 +12,8 @@
     "zy"
   ],
   "author": "tyrex.code",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
 }
