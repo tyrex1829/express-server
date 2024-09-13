@@ -1,0 +1,15 @@
+{
+  "name": "express-working",
+  "version": "1.0.0",
+  "description": "Exploring express for servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "zy"
+  ],
+  "author": "tyrex.code",
+  "license": "ISC"
+}
