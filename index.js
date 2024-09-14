@@ -11,6 +11,12 @@ app.use(express.json()); // any data which comes in json format, we accept that.
 let storeData = [];
 let nextId = 1;
 
+app.get("/", (req, res) => {
+  res.send(
+    "<div><h1>Express Data App.</h1> <p>Go to this link to <a href='https://documenter.getpostman.com/view/32508376/2sAXqngjwd' target='_blank'>Read Docs</a></p></div>"
+  );
+});
+
 // when u wanna save data in db, post data in db etc, use post
 app.post("/data", (req, res) => {
   const { name, price } = req.body; // to get body of data. (remember data inside body and in json format, when fetched)
