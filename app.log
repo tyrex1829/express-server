@@ -1,0 +1,19 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/data\",\"status\":\"201\",\"responseTime\":\"2.556\"}","timestamp":"2024-09-16T09:52:53.510Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/data\",\"status\":\"201\",\"responseTime\":\"0.288\"}","timestamp":"2024-09-16T09:53:00.225Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/data\",\"status\":\"201\",\"responseTime\":\"0.311\"}","timestamp":"2024-09-16T09:53:42.652Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/datas\",\"status\":\"200\",\"responseTime\":\"0.938\"}","timestamp":"2024-09-16T09:53:51.042Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request is made to add new data","timestamp":"2024-09-16T09:55:26.447Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/data\",\"status\":\"201\",\"responseTime\":\"5.412\"}","timestamp":"2024-09-16T09:55:26.453Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request is made to add new data","timestamp":"2024-09-16T09:55:28.158Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/data\",\"status\":\"201\",\"responseTime\":\"0.849\"}","timestamp":"2024-09-16T09:55:28.159Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request is made to add new data","timestamp":"2024-09-16T09:55:29.009Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/data\",\"status\":\"201\",\"responseTime\":\"0.863\"}","timestamp":"2024-09-16T09:55:29.010Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"A post request is made to add new data.","timestamp":"2024-09-16T09:55:56.587Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/data\",\"status\":\"201\",\"responseTime\":\"6.753\"}","timestamp":"2024-09-16T09:55:56.595Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"A post request is made to add new data.","timestamp":"2024-09-16T09:55:57.458Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/data\",\"status\":\"201\",\"responseTime\":\"0.844\"}","timestamp":"2024-09-16T09:55:57.459Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"A post request is made to add new data.","timestamp":"2024-09-16T09:55:58.045Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/data\",\"status\":\"201\",\"responseTime\":\"0.810\"}","timestamp":"2024-09-16T09:55:58.046Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"A post request is made to add new data.","timestamp":"2024-09-16T09:55:58.651Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/data\",\"status\":\"201\",\"responseTime\":\"0.845\"}","timestamp":"2024-09-16T09:55:58.652Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/datas\",\"status\":\"200\",\"responseTime\":\"0.658\"}","timestamp":"2024-09-16T09:56:49.099Z"}
