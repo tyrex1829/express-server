@@ -39,7 +39,7 @@ app.get("/", (req, res) => {
 
 // when u wanna save data in db, post data in db etc, use post
 app.post("/data", (req, res) => {
-  logger.warn("A post request is made to add new data.");
+  logger.warn("A post request is made to add new data."); // we can use chalk instead.
   const { name, price } = req.body; // to get body of data. (remember data inside body and in json format, when fetched)
   const newData = { id: nextId++, name, price };
   storeData.push(newData);
