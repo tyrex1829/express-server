@@ -2,6 +2,7 @@ import "dotenv/config";
 import express from "express";
 import logger from "./logger.js";
 import morgan from "morgan";
+import chalk from "chalk";
 
 const app = express();
 const port = process.env.PORT || 3000;
@@ -30,6 +31,10 @@ app.use(
 
 let storeData = [];
 let nextId = 1;
+
+console.log(chalk.blue("Hello, world!"));
+console.log(chalk.red.bold("This is an error message."));
+console.log(chalk.green.underline("This is a success message."));
 
 app.get("/", (req, res) => {
   res.send(
